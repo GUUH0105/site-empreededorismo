@@ -1,5 +1,37 @@
 body{background-color: blueviolet;}
 
+.descrico{display: flex;
+justify-content: space-around;}
+
+.produto{width: 10%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .topo{display: flex;}
 
 .alunos{display: inline-block;}
